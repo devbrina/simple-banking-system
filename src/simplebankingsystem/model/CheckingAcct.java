@@ -1,6 +1,6 @@
 package simplebankingsystem.model;
 
-public class CheckingAcct extends Account {
+public class CheckingAcct {
 	private int number;
     private double balance;
     private double creditLimit;

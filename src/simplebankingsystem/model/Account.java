@@ -5,7 +5,7 @@ public class Account {
     private String name;
     private String cpf;
     private int agency;
-    CheckingAcct checkingAcct;
+    public CheckingAcct checkingAcct;
     SavingsAcct savingsAcct;
 
     public Account() {
